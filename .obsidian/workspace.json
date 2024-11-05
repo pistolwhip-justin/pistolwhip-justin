@@ -183,11 +183,13 @@
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
       "markdown-importer:Open format converter": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "21b37bdc418a744e",
+  "active": "de5fb3b5c7438b84",
   "lastOpenFiles": [
+    "private",
     "README.md",
     "whatsapp-qr-code.png",
     "Tags"

@@ -18,6 +18,7 @@ Secrets/
 *password*
 *secret*
 *credential*
+private/
 
 # OS files
 .DS_Store
