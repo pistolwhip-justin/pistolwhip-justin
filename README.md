@@ -1,5 +1,6 @@
+# Hi, I'm Justin
 
- Welcome to the chaotic wonderland of my digital universe! After years of hoarding my work in private vaults, I'm {finally} embracing GitHub as my new development home—because let's face it, their AI wizardry is too damn exciting to ignore. If you're ready to join me on this magnificently organized shitshow of a journey from digital hermit to GitHub-powered developer, I'd be thrilled to show you around my repositories of fuckery. 🚀
+ Welcome to the chaotic wonderland of my digital universe! After years of hoarding my work in private vaults, I'm {finally} embracing GitHub as my new development home—because let's face it, their AI wizardry is too damn exciting to ignore. If you're ready to join me on this magnificently organized shitshow of a journey from digital hermit to GitHub-powered developer, I'd be thrilled to show you around my repositories of fuckery (migration inbound). 🚀
 <p>&nbsp;</p>
 
 <div id="header" align="center">
