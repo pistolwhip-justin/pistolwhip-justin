@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "32e3656fda8b420e",
+        "id": "2e1fb67639bfcdae",
         "type": "tabs",
         "children": [
           {
-            "id": "f4dda3655e754337",
+            "id": "21b37bdc418a744e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -186,10 +186,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f4dda3655e754337",
+  "active": "21b37bdc418a744e",
   "lastOpenFiles": [
-    "whatsapp-qr-code.png",
     "README.md",
+    "whatsapp-qr-code.png",
     "Tags"
   ]
 }
