@@ -2,7 +2,7 @@
 
 &nbsp;&nbsp;![Build Status](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Build Status](https://img.shields.io/badge/Maintained%3F-yes-green.svg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Build Status](https://img.shields.io/github/license/pistolwhip-justin/pistolwhip-justin.svg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Build Status](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
 
-Welcome to the chaotic wonderland of my digital universe! Dive into this public version of my personal Obsidian vault, where I'm {just} starting to unleash my notes, thoughts, and knowledge on a variety of fuckery. If you're ready to engage with this magnificently organized shitshow of ideas, I’d be thrilled to point you toward the chatbot location.
+Welcome to the chaotic wonderland of my digital universe! Dive into the public version of my GitHub, where I'm {just} starting to unleash my notes, thoughts, knowledge, and development projects on a variety of fuckery. If you're ready to engage with this magnificently organized shitshow of ideas and code trickery, I’d be thrilled to point you toward the chatbot location.
 
 ## 🎭 Background
 
@@ -26,13 +26,13 @@ This fragmented hellscape might have been cozy, but it sure as hell wasn't doing
   
 - 🔄 **Unified Workflow**
 
-  Combining knowledge management with code development is like transforming a steaming pile of challenges into gold - it creates a more cohesive professional narrative
+  Combining knowledge management with code development is like transforming a steaming pile of challenges into gold - it creates a more cohesive professional narrative.
   
 - 🚀 **Future-Proofing**
 
-  Riding the wave of AI-driven dev trends and learning hellscape
+  Riding the wave of AI-driven dev trends and learning hellscape.
 
-This Obsidian vault and the future repository chaos {to be migrated in due time} isn’t just a shitshow of notes. Nope, it’s our wild ride through the tech hellscape, promising transparency and shared learning in the clusterfuck of modern development.
+My GitHub, it's nested Obsidian vault, and future repository chaos {past project dumpster fires to be migrated in due time} isn’t just a shitshow of notes and code. Nope, it’s our wild ride through the tech hellscape, promising transparency and shared learning in the clusterfuck of modern development.
 
 ## 🌌 What's a Digital Universe?
 
@@ -91,7 +91,7 @@ Transforming knowledge into a magnificent clusterfuck of interconnected notes, t
 1. Clone this repository
 
   ```bash
-  git clone https://github.com/pistolwhip.justin/digital-universe.git
+  git clone https://github.com/pistolwhip.justin/pistolwhip-justin.git
   ```
 
 2. Open the folder as a vault in Obsidian
