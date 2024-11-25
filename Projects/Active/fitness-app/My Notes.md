@@ -1,4 +1,4 @@
-# Executive Summary
+# My Notes
 
 A fitness app that aims to revolutionize the fitness industry by leveraging advanced AI to provide real-time, personalized coaching through live video analysis and overlay data. The app will feature AI models trained in both medical and image analysis to offer users comprehensive feedback, customized exercise recommendations, and real-time coaching. This plan outlines the development, marketing, and IP protection strategies to achieve a significant market presence.
 ## Development Plans
