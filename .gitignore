@@ -1,0 +1,60 @@
+# Obsidian specific files
+.obsidian/workspace.json
+.obsidian/workspace
+.obsidian/cache
+.obsidian/plugins/*/data.json
+.trash/
+
+# Directories to ignore
+_*/
+
+# Private or sensitive information
+Private/
+Personal/
+Confidential/
+Secrets/
+*.key
+*.pem
+*password*
+*secret*
+*credential*
+private/
+Projects/Active/fitness-app/Claude 3.5s Conversation.md
+Projects/Active/fitness-app/fitness-app.md
+Projects/Active/fitness-app/PerplexityPro f-Claude3.5s Executive Summary.md
+Projects/Active/fitness-app/PerplexityPro fClaude3.5s Executive Summary 2.md
+Projects/Active/fitness-app/Qwen 2.5 One-page Business Plan 1.md
+Clippings/
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.trash
+ehthumbs.db
+Thumbs.db
+
+# Ignore Smart Environment folder
+.smart-env
+
+#Smart Connect Directories and files
+smart-chats/
+
+# Don't ignore
+!.obsidian/app.json
+!.obsidian/appearance.json
+!.obsidian/config
+!.obsidian/core-plugins.json
+!.obsidian/community-plugins.json
+!.obsidian/hotkeys.json
+
+# Ignore Smart Environment folder
+.smart-env
+
+# Ignore Smart Environment folder
+.smart-env
+
+# IDE directories and files
+.vscode/
+workspace.code-workspace
