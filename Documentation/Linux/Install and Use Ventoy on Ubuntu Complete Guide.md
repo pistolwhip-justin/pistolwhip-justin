@@ -90,7 +90,7 @@ Once done, select the storage path on which you want to install Ventoy and hit t
 
 Before installing, it will ask you to check the drive two times as it will format the drive, so make sure to take a backup of critical data (if there's any):
 
-![Ventory warning before installing in Ubuntu](https://itsfoss.com/content/images/2023/07/Ventory-warning-before-installing-in-Ubuntu.png)
+![Ventoy warning before installing in Ubuntu](https://itsfoss.com/content/images/2023/07/Ventory-warning-before-installing-in-Ubuntu.png)
 
 Click to enlarge the image
 
@@ -177,7 +177,7 @@ Now, save changes and exit from the BIOS (as per your preferences), and you will
 
 Here's how it looks like with multiple distros onboard:
 
-![use multiple distros in one pendrive using ventoy in Ubutu linux](https://itsfoss.com/content/images/2023/07/use-multiple-ISO-in-Ventoy.png)
+![use multiple distros in one pendrive using ventoy in Ubuntu linux](https://itsfoss.com/content/images/2023/07/use-multiple-ISO-in-Ventoy.png)
 
 You can use the arrow keys to navigate through the multiple options.
 
@@ -213,7 +213,7 @@ First, try with the normal mode and if it does not work, use the wimboot mode.
 
 To [use the multiple distros on a single USB](https://itsfoss.com/multiple-linux-one-usb/), all you have to do is copy multiple ISO files in the Ventoy disk drive:
 
-![use multiple distors in Ventoy](https://itsfoss.com/content/images/2023/07/Use-multiple-distros-in-Ventoy.gif)
+![use multiple distros in Ventoy](https://itsfoss.com/content/images/2023/07/Use-multiple-distros-in-Ventoy.gif)
 
 Yes. It's that simple. Want more details? This detailed article will help you with that.
 
