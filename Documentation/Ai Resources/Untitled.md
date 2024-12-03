@@ -15,3 +15,6 @@ https://www.semanticscholar.org/ - research paper search engine
 Descript
 	Descript is the AI-powered, fully featured, end-to-end video editor that you already know how to use.
 	[](https://web.descript.com/?sign_up=true)
+
+LLM Hosting
+https://www.mystic.ai
